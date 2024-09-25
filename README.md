@@ -1,3 +1,5 @@
 # HW03
 
-Some Python exercises
+Natalie Degraffinried
+9103 Machine Learning
+HW03
